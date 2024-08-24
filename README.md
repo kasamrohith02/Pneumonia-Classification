@@ -3,7 +3,7 @@
 ## Dataset
 
 - **Name**: Pneumonia X-Ray Images
-- **Source**: [Kaggle Dataset](https://www.kaggle.com/datasets/pcbreviglieri/pneumonia-xray-images)
+- **Source**: [Kaggle Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 - **Volume**: 5,856 images
 
 ## Flow Diagram
