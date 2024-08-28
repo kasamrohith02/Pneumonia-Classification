@@ -57,6 +57,8 @@ weighted avg       0.92      0.92      0.91       624
 - The model was deployed using **Streamlit**.
 - The web page takes an image as input and outputs the class to which it belongs, along with the confidence percentage.
 
+- Test it on [Pneumonia classification app](https://pneumonia-classification-app.streamlit.app/)
+
 ### How It Works
 
 1. **Image Loading**: Loads an image from a file.
